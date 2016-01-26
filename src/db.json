@@ -1,0 +1,136 @@
+[{
+    "id": "01",
+    "name": "Seb's vinyls wichlist",
+    "author": "Sebastiano",
+    "password": "chocolat",
+    "backgroundColor": "#fff",
+    "background": "http://www.galaxiastudio.com/wp-content/uploads/2014/03/2252.jpg",
+    "repeat": "no",
+    "gifts": [{
+        "name": "Experience Hendrix The Best of Jimi Hendrix",
+        "image": "https://c1.staticflickr.com/5/4095/4797266851_0e056305ef_b.jpg",
+        "info": "",
+        "price": "12,88",
+        "check": "uncheck"
+    }, {
+        "name": "Placebo - MTV unplugged",
+        "image": "http://soundofbrit.fr/wp-content/uploads/2015/11/12132639_10153717877896255_2911072383110490592_o.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Ratatat - Classics",
+        "image": "http://ecx.images-amazon.com/images/I/61ZQxQke2rL._SL1203_.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "check"
+    }, {
+        "name": "Muddy Waters - The Best Of Muddy Waters",
+        "image": "http://thehighfidelityreport.com/wp-content/uploads/2014/03/muddy_waters_the_best_of_muddy_waters.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Little Walter - Hate To See You Go",
+        "image": "http://www.soundstagedirect.com/media/ss_size1/little_walter_hate_to_see_you_go.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "uncheck"
+    }, {
+        "name": "Bob Dylan's Greatest Hits",
+        "image": "http://ecx.images-amazon.com/images/I/7178GOMs1mL._SL1050_.jpg",
+        "info": "",
+        "price": "12,99",
+        "check": "uncheck"
+    }]
+}, {
+    "id": "02",
+    "name": "Seb's vinyls wichlist 2",
+    "author": "Sebastiano",
+    "password": "chocolat",
+    "backgroundColor": "#D83237",
+    "background": "http://blueyork.org/assets/blueyork/dust-2d7d025dc8359c81e4f7491291a93bff.png",
+    "repeat": "repeat",
+    "gifts": [{
+        "name": "Experience Hendrix The Best of Jimi Hendrix",
+        "image": "https://c1.staticflickr.com/5/4095/4797266851_0e056305ef_b.jpg",
+        "info": "",
+        "price": "12,88",
+        "check": "uncheck"
+    }, {
+        "name": "Placebo - MTV unplugged",
+        "image": "http://soundofbrit.fr/wp-content/uploads/2015/11/12132639_10153717877896255_2911072383110490592_o.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Ratatat - Classics",
+        "image": "http://ecx.images-amazon.com/images/I/61ZQxQke2rL._SL1203_.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "check"
+    }, {
+        "name": "Muddy Waters - The Best Of Muddy Waters",
+        "image": "http://thehighfidelityreport.com/wp-content/uploads/2014/03/muddy_waters_the_best_of_muddy_waters.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Little Walter - Hate To See You Go",
+        "image": "http://www.soundstagedirect.com/media/ss_size1/little_walter_hate_to_see_you_go.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "uncheck"
+    }, {
+        "name": "Bob Dylan's Greatest Hits",
+        "image": "http://ecx.images-amazon.com/images/I/7178GOMs1mL._SL1050_.jpg",
+        "info": "",
+        "price": "12,99",
+        "check": "uncheck"
+    }]
+}, {
+    "id": "03",
+    "name": "Seb's vinyls wichlist 3",
+    "author": "Sebastiano",
+    "password": "chocolat",
+    "backgroundColor": "#363D66",
+    "background": "http://www.goodwp.com/images/201210/goodwp.com_24593.jpg",
+    "repeat": "repeat",
+    "gifts": [{
+        "name": "Experience Hendrix The Best of Jimi Hendrix",
+        "image": "https://c1.staticflickr.com/5/4095/4797266851_0e056305ef_b.jpg",
+        "info": "",
+        "price": "12,88",
+        "check": "uncheck"
+    }, {
+        "name": "Placebo - MTV unplugged",
+        "image": "http://soundofbrit.fr/wp-content/uploads/2015/11/12132639_10153717877896255_2911072383110490592_o.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Ratatat - Classics",
+        "image": "http://ecx.images-amazon.com/images/I/61ZQxQke2rL._SL1203_.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "check"
+    }, {
+        "name": "Muddy Waters - The Best Of Muddy Waters",
+        "image": "http://thehighfidelityreport.com/wp-content/uploads/2014/03/muddy_waters_the_best_of_muddy_waters.jpg",
+        "info": "",
+        "price": "14,99",
+        "check": "uncheck"
+    }, {
+        "name": "Little Walter - Hate To See You Go",
+        "image": "http://www.soundstagedirect.com/media/ss_size1/little_walter_hate_to_see_you_go.jpg",
+        "info": "",
+        "price": "17,99",
+        "check": "uncheck"
+    }, {
+        "name": "Bob Dylan's Greatest Hits",
+        "image": "http://ecx.images-amazon.com/images/I/7178GOMs1mL._SL1050_.jpg",
+        "info": "",
+        "price": "12,99",
+        "check": "uncheck"
+    }]
+}]

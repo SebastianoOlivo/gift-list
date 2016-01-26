@@ -1,0 +1,13 @@
+<div  gift-list>
+	<ul class="gift-lists">
+		<li class="gift-list__item" ng-repeat="list in vm.giftList" style="background:{{list.backgroundColor}} url({{list.background}});">
+			<a ng-href="#/detail/{{list.id}}">
+				<h2>{{list.name}}</h2>
+				<p>{{list.description}}</p>
+				<span>{{list.author}}</span>
+				<button>view</button>
+
+			</a>
+		</li>
+	</ul>
+</div>

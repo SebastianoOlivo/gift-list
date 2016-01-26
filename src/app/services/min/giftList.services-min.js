@@ -1,0 +1,1 @@
+!function(){"use strict";function t(t,i){var n={};return n}angular.module("giftlist").controller("giftListService",t),t.$inject=["$http","$q"]}();

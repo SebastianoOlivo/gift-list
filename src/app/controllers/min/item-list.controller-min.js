@@ -1,0 +1,1 @@
+!function(){"use strict";function t(t,i,e){function n(i){var e=t.getItemList();e.then(function(t){angular.forEach(t.data,function(t,e){t.id===i&&(o.itemList=t,console.log(o.itemList))})})}var o=this;o.itemList=[],i.id=e.id,n(i.id)}angular.module("giftlist").controller("ItemListController",t),t.$inject=["giftListService","$scope","$stateParams"]}();

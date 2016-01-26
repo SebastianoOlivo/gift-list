@@ -1,0 +1,13 @@
+<section class="detail" style="background:{{vm.itemList.backgroundColor}} url({{vm.itemList.background}}) no-repeat fixed center top / cover;">
+	<ul class="gift-list">
+		<li class="gift-list__item" ng-repeat="item in vm.itemList.gifts">
+			<p class="image-holder"><img src="{{item.image}}" alt=""></p>
+			<div class="description">
+				<h3>{{item.name}}</h3>
+				<p>{{item.info}}</p>
+				<span class="price">{{item.price}}</span>
+				
+			</div>
+		</li>
+	</ul>
+</section>
