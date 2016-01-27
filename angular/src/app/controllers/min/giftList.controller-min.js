@@ -1,1 +1,0 @@
-!function(){"use strict";function t(t){var i=this;i.daraService=t}angular.module("giftlist").controller("GiftListController",t),t.$inject=["giftListService"]}();

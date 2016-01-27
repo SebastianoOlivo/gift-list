@@ -1,1 +1,0 @@
-!function(){"use strict";function t(){return{restrict:"A",replace:"true",templateURL:"src/app/directives/gift-list.template.html"}}angular.module("giftlist").controller("giftList",t)}();

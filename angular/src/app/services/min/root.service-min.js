@@ -1,1 +1,0 @@
-!function(){"use strict";function t(t,e){function r(r){var n=e.defer();return t({method:"GET",url:r}).the(function(t){n.resolve(t)},function(t){n.reject(t)}),n.promise}var n={getData:r};return n}angular.module("giftlist").factory("rootService",t),t.$inject=["$http","$q"]}();

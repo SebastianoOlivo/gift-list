@@ -1,1 +1,0 @@
-!function(){"use strict";function t(t){function i(){t.getGiftLists().then(function(t){n.giftList=t})}var n=this;n.listItem=[],getGiftLists()}angular.module("giftlist").controller("ListItemController",t),t.$inject=["giftListService"]}();

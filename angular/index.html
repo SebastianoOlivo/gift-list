@@ -4,7 +4,7 @@
 	  <meta charset="utf-8">
 	  <title>Gift List</title>
 
-	  <link rel="stylesheet" href="src/css/screen.css" />
+	  <link rel="stylesheet" href="dist/screen.css" />
 
 	</head>
 	<body ng-app="giftlist">
@@ -20,17 +20,12 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.0/angular.min.js"></script>
   		<script src="src/app/dependencies/angular-ui-router.js"></script>
 
-  		<script src="src/app/app.modules.js"></script>
-  		<script src="src/app/app.config.route.js"></script>
-  		<script src="src/app/services/gift-list.service.js"></script>
-  		<script src="src/app/controllers/gift-list.controller.js"></script>
-  		<script src="src/app/controllers/item-list.controller.js"></script>
-  		<script src="src/app/directives/gift-list.directive.js"></script>
+  		<script src="dist/gift-list-min.js"></script>
 
-		<!--<script>
+		<script>
 		angular.module('giftlist').config(function($urlRouterProvider) {
 			$urlRouterProvider.otherwise('gift-list');
 		});
-		</script>-->
+		</script>
 	</body>
 </html>

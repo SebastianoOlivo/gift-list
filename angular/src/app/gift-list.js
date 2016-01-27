@@ -1,0 +1,1 @@
+// @codekit-prepend  "app.modules.js", "app.config.route.js", "services/gift-list.service.js", "controllers/gift-list.controller.js", "controllers/item-list.controller.js", "directives/gift-list.directive.js";
