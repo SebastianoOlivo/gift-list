@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="home">
+  <h1 class="page-heading">{{site.title}}</h1>
+
+  {% assign gifts = site.gifts %}
+  
+
+    {% for category in site.categories %}
+      {% if forloop.first %}<ul class="gift-lists"><li class="gift-list__item" >{% endif %}
+<a href="">{{ category | first }}</a>
+
+      {% if forloop.last %}</li></ul>{% else %}</li><li class="gift-list__item">{% endif %}
+    {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
+

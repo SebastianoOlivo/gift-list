@@ -1,0 +1,47 @@
+
+# Site settings
+title: Gift List
+email: olivo.sebastiano@gmail.com
+description: " Static app to create a gift list and share it with my familly. They have no excuses anymore to find me a present for my birthday "
+baseurl: "/gift-list"
+url: "http://sebastianoolivo.com"
+github_username:  sebastianoolivo
+
+# Build settings
+exclude: [scss/]
+highlighter: pygments
+markdown: kramdown
+
+
+permalink: /detail/:title/
+
+
+# Defaults front matter variables for various types
+# http://jekyllrb.com/docs/configuration/#front-matter-defaults
+
+collections:
+  gift-lists:
+    output: true
+    permalink: /detail/:title/
+
+  gifts:
+    output: true
+    permalink: /item/:title/
+
+defaults:
+
+  -
+    scope:
+      path: "detail"
+      type: "gift-lists"
+    values:
+      layout: "default"
+      current_nav: "detail"
+
+  -
+    scope:
+      path: "item"
+      type: "gifts"
+    values:
+      layout: "default"
+      current_nav: "item"
